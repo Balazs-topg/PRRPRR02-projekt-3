@@ -2,4 +2,4 @@
 
 Byggd med Next.js (som bygger på React.js). Jag använde även tailwindCSS (för utlility-klasserna) och shadcn som UI-library
 
-Kör "npm run dev" för att starta
+Kör "npm run dev" för att starta dev-server på localhost
